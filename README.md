@@ -8,9 +8,9 @@ Data Availability
 
 Instructions
 - Edit '#1 Birth registry data/00_master.do' to adjust the filepaths 
-- Run '#1 Birth registry data/00_master.do' within the ONS Secure Research Service (SRS). This will automatically run all codes within the folder. The codes clean the birth registry data and produce all relevant tables and figures in the main paper and in the supplementary material.
+- Run '#1 Birth registry data/00_master.do' within the ONS Secure Research Service (SRS). This will automatically run all codes within the folder. The codes clean the birth registry data and produce all relevant tables and figures from the main paper and supplementary material.
 - Edit '#2 Hospital data/00_master.do' to adjust the filepaths
-- Run '#2 Hospital data/00_master.do'. This will automatically run all codes within the folder. The codes clean the hospital data and produce all relevant tables and figures in the main paper and in the supplementary material.
+- Run '#2 Hospital data/00_master.do'. This will automatically run all codes within the folder. The codes clean the hospital data and produce all relevant tables and figures from the main paper and supplementary material.
 - Edit '#3 Published data/00_Figure_S17.do' to adjust the filepaths
 - Run '#3 Published data/00_Figure_S17.do'. This produces Figure S17, based on published administrative data on women's smoking status at delivery.
 
