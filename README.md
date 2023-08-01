@@ -1,5 +1,5 @@
 # hpg-infant-health
-This repository provides code to replicate [Reader (2023) The infant health effects of starting universal child benefits in pregnancy: evidence from England and Wales. Journal of Health Economics, 89, May 2023.](https://doi.org/10.1016/j.jhealeco.2023.102751)
+This repository provides codes to replicate [Reader (2023) The infant health effects of starting universal child benefits in pregnancy: evidence from England and Wales. Journal of Health Economics, 89, May 2023.](https://doi.org/10.1016/j.jhealeco.2023.102751)
 
 Data Availability Statements
 1. [Birth registry microdata, 2006-2014](https://ons.metadata.works/browser/dataset?id=328&origin=0): individual-level administrative data from statutory birth registrations in England and Wales. The data are digitized and processed by the UK's National Statistical Agency, the Office for National Statistics (ONS). The data are not publicly availabl but can be accessed within the ONS's Secure Research Service environment. Details on how to apply for the data can be found [here](https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/secureresearchservice/applyforanaccreditedresearchproject). It can take some months to negotiate data use agreements and gain access to the data.
