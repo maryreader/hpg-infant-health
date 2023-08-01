@@ -6,8 +6,10 @@ clear all
 set more off 
 capture log close 
 
-global data "/Users/maryreader/Library/CloudStorage/Dropbox/Mac/Documents/HPG/hpg_github/public data"
-global outputs "/Users/maryreader/Library/CloudStorage/Dropbox/Mac/Documents/HPG/JHE_submission"
+* Stata 17.0
+
+global data "INSERT DATA PATH HERE"
+global outputs "INSERT OUTPUT PATH HERE"
 
 #delimit ; 
 

@@ -1,5 +1,5 @@
 ********************************************************************************
-******** B05: Supplementary tables and figures with NHS hospital data **********
+******** NHS05: Supplementary tables and figures with NHS hospital data ********
 ********************************************************************************
 clear all
 set more off 
