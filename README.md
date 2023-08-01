@@ -7,12 +7,14 @@ Data Availability
 3. [Statistics on Women's Smoking Status at Time of Delivery, England, 2007-2015](https://digital.nhs.uk/data-and-information/publications/statistical/statistics-on-women-s-smoking-status-at-time-of-delivery-england): published administrative data from NHS Digital on the proportion of women known to be smoking at delivery. The raw annual datasets are publicly available and can be downloaded separately from the NHS Digital website. A merged and cleaned data file is provided in the 'public data' folder.
 
 Instructions
-- Edit '#1 Birth registry data/00_master.do' to adjust the filepaths
+- Edit '#1 Birth registry data/00_master.do' to adjust the filepaths 
 - Run '#1 Birth registry data/00_master.do' within the ONS Secure Research Service (SRS). This will automatically run all codes within the folder. The codes clean the birth registry data and produce all relevant tables and figures in the main paper and in the supplementary material.
 - Edit '#2 Hospital data/00_master.do' to adjust the filepaths
 - Run '#2 Hospital data/00_master.do'. This will automatically run all codes within the folder. The codes clean the hospital data and produce all relevant tables and figures in the main paper and in the supplementary material.
 - Edit '#3 Published data/00_Figure_S17.do' to adjust the filepaths
-- Run '#3 Published data/00_Figure_S17.do'. This produces Figure S17, based on published administrative data on women's smoking status at delivery. 
+- Run '#3 Published data/00_Figure_S17.do'. This produces Figure S17, based on published administrative data on women's smoking status at delivery.
+
+All dependencies are specified in the '00' files.
 
 
 
